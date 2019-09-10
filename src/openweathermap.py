@@ -8,7 +8,7 @@ def get_data(location='Newbury,uk'):
     querystring = {
         "q":location,
         "units":"metric",
-        "appid": "XXXX"
+        "appid": "XXX"
     }
 
     payload = ""
