@@ -7,12 +7,9 @@ headers = {
     'Accept': "application/json",
     'x-thingworx-session': "true",
     'Cache-Control': "no-cache",
-    'User-Agent': "PostmanRuntime/7.16.3",
-    'Postman-Token': "51ec10c3-6348-40d9-9161-30d36a663c41,0cd68b2e-b212-4fa5-8687-a4eab3df905c",
     'Host': "XXX.devportal.ptc.io",
     'Accept-Encoding': "gzip, deflate",
     'Content-Length': "18",
-    'Cookie': "JSESSIONID=75DE4ECECDEEABF3B1E8835C7F28B41D",
     'Connection': "keep-alive",
     'cache-control': "no-cache"
 }

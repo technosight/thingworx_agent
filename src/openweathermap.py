@@ -14,8 +14,7 @@ def get_data(location='Newbury,uk'):
     payload = ""
     headers = {
         'Content-Type': "application/json",
-        'cache-control': "no-cache",
-        'Postman-Token': "48c127da-3075-4ec9-b023-7536fc460306"
+        'cache-control': "no-cache"
         }
 
     try:
